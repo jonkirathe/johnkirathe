@@ -1023,8 +1023,8 @@ button:hover .index {
 }
 
 .portfolio-image {
-    height: 500px;
-    width: 100%;
+    height: 300px;
+    width: 40%;
 }
 
 .portfolio-image img::before {
